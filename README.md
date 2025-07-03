@@ -1,40 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌐 Alexa Developers SRM Website
 
-## Getting Started
+Welcome to the **official frontend repository** of **Alexa Developers SRM** — a buzzing hub of curious minds, creators, and tech enthusiasts from **SRM Institute of Science and Technology**. 🚀
 
-First, run the development server:
+> *“Empowering students through innovation, collaboration, and cutting-edge tech.”*
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔗 Live Preview
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+🎯 **Check out the live version here:** [Click to Visit 🚀](#)  
+https://hellohello-three.vercel.app/
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+---
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 🧠 What’s This Project About?
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This website is more than just a landing page — it’s the digital face of our tech community. Here's what you'll find:
 
-## Learn More
+- 🎬 **A visually captivating Hero section** with smooth animations
+- 💼 **Breakdown of our domains** — AI/ML, Web Dev, IoT, and more
+- ✍️ **Featured blog posts** from our members
+- 🧑‍🤝‍🧑 **"Our Team" page** introducing the core team
+- 🔁 Fully responsive and accessible design for all devices
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📸 Website Preview
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Here’s a sneak peek 👀:
 
-## Deploy on Vercel
+### 🏠 Home / Hero Section
+![Landing Page](./assets/landing.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 📚 Technical Domains
+![Domains](./assets/domains.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### 👨‍👩‍👧‍👦 Team & Blogs
+![Team](./assets/team.png)
+
+---
+
+## ⚙️ Tech Stack
+
+Built with love using modern web technologies ❤️:
+
+- 🧱 **HTML5**
+- 🎨 **CSS3** & **Tailwind CSS** (utility-first framework)
+- ⚡ **JavaScript (ES6+)**
+- 📱 **Responsive Design**
+- 🌀 Scroll animations with [AOS.js](https://michalsnik.github.io/aos/) or similar
+
+---
+
+
+
